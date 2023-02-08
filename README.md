@@ -1,1 +1,1 @@
-my shell basics repo
+Task 0. Where am I?
